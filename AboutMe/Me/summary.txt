@@ -1,0 +1,5 @@
+My name is R. Gokula Kannan. I’m a passionate software developer with a strong focus on backend development, AI-driven solutions, and building practical, scalable products. I have hands-on experience working with Python, FastAPI, Streamlit, and SQLAlchemy, and I enjoy transforming complex business problems into clean, efficient systems.
+
+I’ve worked on projects ranging from self-service banking portals and AI-based failure prediction models to SaaS platforms and social media-style applications. I’m particularly interested in automation, intelligent decision-making systems, and building MVPs that can evolve into full-scale products.
+
+Beyond development, I’m actively exploring entrepreneurship, SaaS product design, and content creation, with a long-term goal of building high-impact, revenue-generating platforms. I value continuous learning, problem-solving, and writing code that is both reliable and easy to maintain.
